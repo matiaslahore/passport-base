@@ -40,3 +40,4 @@ nodemon app.js
 ## Authors
 
 * **Matias Lahore** - *Base Project* - [passport-base](https://github.com/matiaslahore/passport-base)
+matiaslahore@gmail.com
